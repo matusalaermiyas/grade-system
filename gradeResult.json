@@ -1,0 +1,355 @@
+[
+    [
+        [
+            {
+                "_id": "61a0d239844eb9824523c443",
+                "coursename": "Course 2",
+                "studentId": "02489/12",
+                "grade": "Grade 2",
+                "creditHour": 1,
+                "instructor": "Instructor 2",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c444",
+                "coursename": "Course 3",
+                "studentId": "02489/12",
+                "grade": "Grade 3",
+                "creditHour": 1,
+                "instructor": "Instructor 3",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c446",
+                "coursename": "Course 5",
+                "studentId": "02489/12",
+                "grade": "Grade 5",
+                "creditHour": 1,
+                "instructor": "Instructor 5",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c445",
+                "coursename": "Course 4",
+                "studentId": "02489/12",
+                "grade": "Grade 4",
+                "creditHour": 1,
+                "instructor": "Instructor 4",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c442",
+                "coursename": "Course 1",
+                "studentId": "02489/12",
+                "grade": "Grade 1",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            }
+        ],
+        [
+            {
+                "_id": "61a0d239844eb9824523c449",
+                "coursename": "Course 9",
+                "studentId": "02489/12",
+                "grade": "Grade 8",
+                "creditHour": 1,
+                "instructor": "Instructor 3",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c44b",
+                "coursename": "Course 11",
+                "studentId": "02489/12",
+                "grade": "Grade 10",
+                "creditHour": 1,
+                "instructor": "Instructor 5",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c44a",
+                "coursename": "Course 10",
+                "studentId": "02489/12",
+                "grade": "Grade 9",
+                "creditHour": 1,
+                "instructor": "Instructor 4",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c447",
+                "coursename": "Course 7",
+                "studentId": "02489/12",
+                "grade": "Grade 6",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c448",
+                "coursename": "Course 8",
+                "studentId": "02489/12",
+                "grade": "Grade 7",
+                "creditHour": 1,
+                "instructor": "Instructor 2",
+                "__v": 0
+            }
+        ],
+        [
+            {
+                "_id": "61a0d239844eb9824523c44d",
+                "coursename": "Course 13",
+                "studentId": "02489/12",
+                "grade": "Grade 12",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c44c",
+                "coursename": "Course 12",
+                "studentId": "02489/12",
+                "grade": "Grade 11",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "_id": "61a0d239844eb9824523c452",
+                "coursename": "Course 5",
+                "studentId": "02489/12",
+                "grade": "Grade 5",
+                "creditHour": 1,
+                "instructor": "Instructor 5",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c44e",
+                "coursename": "Course 1",
+                "studentId": "02489/12",
+                "grade": "Grade 1",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c44f",
+                "coursename": "Course 2",
+                "studentId": "02489/12",
+                "grade": "Grade 2",
+                "creditHour": 1,
+                "instructor": "Instructor 2",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c450",
+                "coursename": "Course 3",
+                "studentId": "02489/12",
+                "grade": "Grade 3",
+                "creditHour": 1,
+                "instructor": "Instructor 3",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c451",
+                "coursename": "Course 4",
+                "studentId": "02489/12",
+                "grade": "Grade 4",
+                "creditHour": 1,
+                "instructor": "Instructor 4",
+                "__v": 0
+            }
+        ],
+        [
+            {
+                "_id": "61a0d239844eb9824523c454",
+                "coursename": "Course 8",
+                "studentId": "02489/12",
+                "grade": "Grade 7",
+                "creditHour": 1,
+                "instructor": "Instructor 2",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c457",
+                "coursename": "Course 11",
+                "studentId": "02489/12",
+                "grade": "Grade 10",
+                "creditHour": 1,
+                "instructor": "Instructor 5",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c456",
+                "coursename": "Course 10",
+                "studentId": "02489/12",
+                "grade": "Grade 9",
+                "creditHour": 1,
+                "instructor": "Instructor 4",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c455",
+                "coursename": "Course 9",
+                "studentId": "02489/12",
+                "grade": "Grade 8",
+                "creditHour": 1,
+                "instructor": "Instructor 3",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c453",
+                "coursename": "Course 7",
+                "studentId": "02489/12",
+                "grade": "Grade 6",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            }
+        ],
+        [
+            {
+                "_id": "61a0d239844eb9824523c459",
+                "coursename": "Course 13",
+                "studentId": "02489/12",
+                "grade": "Grade 12",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c458",
+                "coursename": "Course 12",
+                "studentId": "02489/12",
+                "grade": "Grade 11",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "_id": "61a0d239844eb9824523c45a",
+                "coursename": "Course 1",
+                "studentId": "02489/12",
+                "grade": "Grade 1",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c45c",
+                "coursename": "Course 3",
+                "studentId": "02489/12",
+                "grade": "Grade 3",
+                "creditHour": 1,
+                "instructor": "Instructor 3",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c45d",
+                "coursename": "Course 4",
+                "studentId": "02489/12",
+                "grade": "Grade 4",
+                "creditHour": 1,
+                "instructor": "Instructor 4",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c45b",
+                "coursename": "Course 2",
+                "studentId": "02489/12",
+                "grade": "Grade 2",
+                "creditHour": 1,
+                "instructor": "Instructor 2",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c45e",
+                "coursename": "Course 5",
+                "studentId": "02489/12",
+                "grade": "Grade 5",
+                "creditHour": 1,
+                "instructor": "Instructor 5",
+                "__v": 0
+            }
+        ],
+        [
+            {
+                "_id": "61a0d239844eb9824523c463",
+                "coursename": "Course 11",
+                "studentId": "02489/12",
+                "grade": "Grade 10",
+                "creditHour": 1,
+                "instructor": "Instructor 5",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c462",
+                "coursename": "Course 10",
+                "studentId": "02489/12",
+                "grade": "Grade 9",
+                "creditHour": 1,
+                "instructor": "Instructor 4",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c460",
+                "coursename": "Course 8",
+                "studentId": "02489/12",
+                "grade": "Grade 7",
+                "creditHour": 1,
+                "instructor": "Instructor 2",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c45f",
+                "coursename": "Course 7",
+                "studentId": "02489/12",
+                "grade": "Grade 6",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c461",
+                "coursename": "Course 9",
+                "studentId": "02489/12",
+                "grade": "Grade 8",
+                "creditHour": 1,
+                "instructor": "Instructor 3",
+                "__v": 0
+            }
+        ],
+        [
+            {
+                "_id": "61a0d23a844eb9824523c465",
+                "coursename": "Course 13",
+                "studentId": "02489/12",
+                "grade": "Grade 12",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            },
+            {
+                "_id": "61a0d239844eb9824523c464",
+                "coursename": "Course 12",
+                "studentId": "02489/12",
+                "grade": "Grade 11",
+                "creditHour": 1,
+                "instructor": "Instructor 1",
+                "__v": 0
+            }
+        ]
+    ],
+    [
+        [],
+        [],
+        []
+    ]
+]
